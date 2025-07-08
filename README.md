@@ -1,4 +1,4 @@
-Portfólio de Projetos em Dados.
+# Portfólio de Projetos em Dados.
 Neste repositório você encontrará alguns trabalhos que desenvolvi e que estou desenvolvendo, ao longo da minha vida acadêmica e profissional, onde busco através dos dados encontrar informações valiosas para a tomada de decisão.
 
 Observação: O objetivo dos trabalhos são testar e colocar em prática o uso de algoritmos, ferramentas e técnicas.

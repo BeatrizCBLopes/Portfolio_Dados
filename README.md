@@ -25,4 +25,5 @@ Ambiente de simulação funcional no Excel para treinamento teórico e prático 
 - LinkedIn: www.linkedin.com/in/beatriz-barcelos-857416195
 - E-mail: beatrizbarceloslopes@hotmail.com
 
-# [Portfólio de Projetos em Dados (Buscando valor em Dados).pdf](https://github.com/user-attachments/files/21127022/Portfolio.de.Projetos.em.Dados.Buscando.valor.em.Dados.pdf)
+[Portfólio de Projetos em Dados (Buscando valor em Dados).pdf](https://github.com/user-attachments/files/21129240/Portfolio.de.Projetos.em.Dados.Buscando.valor.em.Dados.pdf)
+
